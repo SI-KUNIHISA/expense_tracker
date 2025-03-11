@@ -6,9 +6,11 @@
 *.swp
 .DS_Store
 .atom/
+.build/
 .buildlog/
 .history
 .svn/
+.swiftpm/
 migrate_working_dir/
 
 # IntelliJ related
@@ -88,7 +90,6 @@ app.*.map.json
 !*.xcodeproj/xcshareddata/
 !*.xcworkspace/contents.xcworkspacedata
 
-**/build/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
