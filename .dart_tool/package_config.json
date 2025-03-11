@@ -74,6 +74,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "intl",
+      "rootUri": "file:///Users/shouhei/.pub-cache/hosted/pub.dev/intl-0.20.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///Users/shouhei/.pub-cache/hosted/pub.dev/leak_tracker-10.0.7",
       "packageUri": "lib/",
@@ -200,7 +206,7 @@
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-03-10T14:30:43.266702Z",
+  "generated": "2025-03-11T14:27:24.530765Z",
   "generator": "pub",
   "generatorVersion": "3.6.2",
   "flutterRoot": "file:///Users/shouhei/development/flutter",
